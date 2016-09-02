@@ -13,7 +13,8 @@ TODO:
 Знакомство
 ----------
 
-* Степулёнок Денис Олегович - super.denis@gmail.com 
+* Степулёнок Денис Олегович - super.denis@gmail.com / denis.stepulenok@oracle.com
+* Солодкая Анастасия Сергеевна  
 * Громов Илья Анварович - igromovbox@gmail.com
 
 Работаем в Oracle
